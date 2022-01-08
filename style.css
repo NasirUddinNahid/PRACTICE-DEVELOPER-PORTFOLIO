@@ -74,9 +74,16 @@ footer{
     text-align: center;
 }
 /*
-6-1 HTML5 
+6-3 HTML table, table head, table body, table row, table data
 */
-
+table{
+    border-collapse: collapse;
+}
+td,th{
+    border: 2px solid lightslategray;
+    padding: 7px 8px;
+    text-align: center;
+}
 /*
-Audio
+
 */
